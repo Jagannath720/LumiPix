@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309344894846",
+    "project_id": "lumipixffff",
+    "storage_bucket": "lumipixffff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309344894846:android:d3a351c6f118603faffd2f",
+        "android_client_info": {
+          "package_name": "com.example.lumipix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTGXS-tI--Sp4FV1qZvT3bnQcIx36k95Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
