@@ -24,6 +24,6 @@ class Login : AppCompatActivity() {
 
     private fun enableEdgeToEdge() {
         // Implementation for enabling edge-to-edge layout if needed
-        // trying to do
+        // trying to do sonme
     }
 }
